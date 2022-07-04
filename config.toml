@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Adventure Called"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -117,8 +117,8 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+      "Powered by <a href=\"http://techrelay.xyz\">Tech Relay</a>",
+      "Made with &#10084; by <a href=\"https://github.com/techrelay\">Djordje Atlialp</a>"
     ]
 
   # Colors for favicons

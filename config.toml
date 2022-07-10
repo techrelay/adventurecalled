@@ -158,25 +158,25 @@ disableHugoGeneratorInject = false
   #   maxWidth = "50px"
 
   # Social icons
-  [[params.social]]
-    name = "email"
-    url  = "mailto:nick@bennett.lol"
+  #[[params.social]]
+  #  name = "email"
+  #  url  = "mailto:nick@bennett.lol"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:melissa@bennett.lol"
+    url  = "mailto:wanderlust@bennett.lol"
 
   [[params.social]]
     name = "instagram"
     url  = "https://instagram.com/adventurecalled.xyz"
 
-  [[params.social]]
-    name = "case"
-    url  = "https://www.techrelay.xyz/"
+  #[[params.social]]
+  #  name = "case"
+  #  url  = "https://www.techrelay.xyz/"
 
-  [[params.social]]
-    name = "case"
-    url  = "https://traumatotravel.xyz/"
+  #[[params.social]]
+  #  name = "case"
+  #  url  = "https://traumatotravel.xyz/"
 
 [languages]
   [languages.en]

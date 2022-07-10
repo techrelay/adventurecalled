@@ -176,7 +176,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "case"
-    url  = "https://www.truamatotravel.xyz/"
+    url  = "https://traumatotravel.xyz/"
 
 [languages]
   [languages.en]

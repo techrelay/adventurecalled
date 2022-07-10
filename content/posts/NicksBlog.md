@@ -3,7 +3,7 @@ author:
   name: "Nick"
 date: 2022-07-10
 linktitle: Nick's Blog - Tech Relay
-title: Nick's Blog -Tech Relay
+title: Nick's Blog - Tech Relay
 type:
 - post
 - posts

@@ -88,13 +88,13 @@ disableHugoGeneratorInject = false
   # generate the buttons here: https://sharingbuttons.io
   # and add them into your own `layouts/partials/sharing-buttons.html`
   #
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Global language menu
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -130,10 +130,10 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "$ cd /home/"
-    logoHomeLink = "/"
+    logoText     = "Adventure Called"
+    logoHomeLink = "!"
     # Set true to remove the logo cursor entirely.
-    # logoCursorDisabled = false
+    # logoCursorDisabled = true
     # Set to a valid CSS color to change the cursor in the logo.
     # logoCursorColor    = "#67a2c9"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
@@ -158,25 +158,25 @@ disableHugoGeneratorInject = false
   #   maxWidth = "50px"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
+  #[[params.social]]
+  #  name = "email"
+  #  url  = "mailto:nick@bennett.lol"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:melissa@bennett.lol"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/zipyy"
 
   [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    name = "case"
+    url  = "https://www.techrelay.xyz/"
 
   [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    name = "case"
+    url  = "https://www.truamatotravel.xyz/"
 
 [languages]
   [languages.en]
@@ -184,10 +184,10 @@ disableHugoGeneratorInject = false
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-  [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  #[languages.fr]
+  #  subtitle  = "Hello Friend NG Theme"
+  #  weight    = 2
+  #  copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
   [[menu.main]]

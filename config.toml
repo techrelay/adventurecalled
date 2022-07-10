@@ -158,9 +158,9 @@ disableHugoGeneratorInject = false
   #   maxWidth = "50px"
 
   # Social icons
-  #[[params.social]]
-  #  name = "email"
-  #  url  = "mailto:nick@bennett.lol"
+  [[params.social]]
+    name = "email"
+    url  = "mailto:nick@bennett.lol"
 
   [[params.social]]
     name = "email"

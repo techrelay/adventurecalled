@@ -194,11 +194,15 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "About"
     url        = "about/"
+  #[[menu.main]]
+  #  identifier = "posts"
+  #  name       = "Posts"
+  #  url        = "posts/"
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
-[[menu.main]]
     identifier = "TechRelay"
     name       = "Tech Relay"
     url        = "https://techrelay.xyz"
+  [[menu.main]]
+    identifier = "TraumaToTravel"
+    name       = "Trauma To Travel"
+    url        = "https://traumatotravel.xyz/"

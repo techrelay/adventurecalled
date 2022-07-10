@@ -131,7 +131,7 @@ disableHugoGeneratorInject = false
   [params.logo]
     logoMark     = ">"
     logoText     = "Adventure Called"
-    logoHomeLink = "!"
+    logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = true
     # Set to a valid CSS color to change the cursor in the logo.
